@@ -15,10 +15,12 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [PHP, Javascript, Typescript, HTML, CSS, Python, Dart, Java],
-  tools: [React, Redux, Node, Laravel, Symfony, Styled-Components, Jenkins, Docker],
+const acuedd = {
+  pronouns: "He" | "him",
+  frontend: [ "Javascript vanilla", "ReactJs", "CSS", "Webpack" ], 
+  backend: [ "NodeJs", "PHP", "Python" ], 
+  mobile: [ "MySQL", "MariaDB", "MongoDB" ],
+  tools: [ "React", "Redux", "Laravel", "Symfony", "Styled-Components", "Jenkins", "Docker", "JIRA" ],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on Node and ReactJs"
 }
