@@ -21,8 +21,8 @@ const acuedd = {
   backend: [ "NodeJs", "PHP", "Python" ], 
   mobile: [ 
     {
-      "hybrid": ["Dart & Flutter", "ReactNativ"], 
-      "native: ["Java for Android", "Swift"],
+      "hybrid": ["Dart & Flutter", "React-Native"], 
+      "native": ["Java for Android", "Swift"],
     }
   ],
   database: [ "MySQL", "MariaDB", "MongoDB" ],
