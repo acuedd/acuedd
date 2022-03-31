@@ -19,7 +19,13 @@ const acuedd = {
   pronouns: "He" | "him",
   frontend: [ "Javascript vanilla", "ReactJs", "CSS", "Webpack" ], 
   backend: [ "NodeJs", "PHP", "Python" ], 
-  mobile: [ "MySQL", "MariaDB", "MongoDB" ],
+  mobile: [ 
+    {
+      "hybrid": ["Dart & Flutter", "ReactNativ"], 
+      "native: ["Java for Android", "Swift"],
+    }
+  ],
+  database: [ "MySQL", "MariaDB", "MongoDB" ],
   tools: [ "React", "Redux", "Laravel", "Symfony", "Styled-Components", "Jenkins", "Docker", "JIRA" ],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on Node and ReactJs"
