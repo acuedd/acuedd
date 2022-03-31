@@ -27,7 +27,7 @@ const acuedd = {
   ],
   database: [ "MySQL", "MariaDB", "MongoDB" ],
   tools: [ "React", "Redux", "Laravel", "Symfony", "Styled-Components", "Jenkins", "Docker", "JIRA" ],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: [ "monolithic", "microservices", "event-driven", "design system pattern"],
   challenge: "I am doing the #100DaysOfCode challenge focused on Node and ReactJs"
 }
 ```
