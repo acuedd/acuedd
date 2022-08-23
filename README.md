@@ -24,7 +24,7 @@
 const acuedd = {
   pronouns: "He" | "him",
   frontend: [ "Javascript vanilla", "ReactJs", "CSS", "Webpack" ], 
-  backend: [ "NodeJs", "PHP", "Python" ], 
+  backend: [ "NodeJs", "PHP" ], 
   mobile: [ 
     {
       "hybrid": ["Dart & Flutter", "React-Native"], 
