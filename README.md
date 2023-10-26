@@ -4,7 +4,7 @@
 
 <h2> Hi, I'm Edward Acu! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.umg.edu.gt/"> University Mariano Gálvez de Guatemala </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Fullstack developer consultant at <a href="https://www.rainpos.com/">RainPOS</a>
+<p><em>Software Enginner at <a href="https://www.umg.edu.gt/"> University Mariano Gálvez de Guatemala </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Fullstack developer consultant at <a href="https://prioritycommerce.com/">PRTH</a>
 
 <!--    and <a href="https://homeland.com.gt/">Homeland S.A.</a> -->  
   
